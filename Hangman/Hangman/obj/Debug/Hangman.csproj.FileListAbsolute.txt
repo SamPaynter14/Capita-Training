@@ -1,0 +1,14 @@
+C:\Users\user.DESKTOP-QFQ60A6\OneDrive\Documents\Capita\C#\Hangman\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\user.DESKTOP-QFQ60A6\OneDrive\Documents\Capita\C#\Hangman\Hangman\bin\Debug\Hangman.exe
+C:\Users\user.DESKTOP-QFQ60A6\OneDrive\Documents\Capita\C#\Hangman\Hangman\bin\Debug\Hangman.pdb
+C:\Users\user.DESKTOP-QFQ60A6\OneDrive\Documents\Capita\C#\Hangman\Hangman\obj\Debug\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\user.DESKTOP-QFQ60A6\OneDrive\Documents\Capita\C#\Hangman\Hangman\obj\Debug\Hangman.exe
+C:\Users\user.DESKTOP-QFQ60A6\OneDrive\Documents\Capita\C#\Hangman\Hangman\obj\Debug\Hangman.pdb
+C:\Users\user.DESKTOP-QFQ60A6\OneDrive\Documents\Capita\C#\Hangman\Hangman\obj\Debug\Hangman.csproj.AssemblyReference.cache
+C:\Users\sampa\OneDrive\Documents\Capita\C#\Hangman\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\sampa\OneDrive\Documents\Capita\C#\Hangman\Hangman\bin\Debug\Hangman.exe
+C:\Users\sampa\OneDrive\Documents\Capita\C#\Hangman\Hangman\bin\Debug\Hangman.pdb
+C:\Users\sampa\OneDrive\Documents\Capita\C#\Hangman\Hangman\obj\Debug\Hangman.csproj.AssemblyReference.cache
+C:\Users\sampa\OneDrive\Documents\Capita\C#\Hangman\Hangman\obj\Debug\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\sampa\OneDrive\Documents\Capita\C#\Hangman\Hangman\obj\Debug\Hangman.exe
+C:\Users\sampa\OneDrive\Documents\Capita\C#\Hangman\Hangman\obj\Debug\Hangman.pdb

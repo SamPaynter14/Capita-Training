@@ -1,0 +1,6 @@
+C:\Users\user.DESKTOP-QFQ60A6\OneDrive\Documents\Capita\C#\First App\Guess the Number\bin\Debug\Guess the Number.exe.config
+C:\Users\user.DESKTOP-QFQ60A6\OneDrive\Documents\Capita\C#\First App\Guess the Number\bin\Debug\Guess the Number.exe
+C:\Users\user.DESKTOP-QFQ60A6\OneDrive\Documents\Capita\C#\First App\Guess the Number\bin\Debug\Guess the Number.pdb
+C:\Users\user.DESKTOP-QFQ60A6\OneDrive\Documents\Capita\C#\First App\Guess the Number\obj\Debug\Guess the Number.csproj.CoreCompileInputs.cache
+C:\Users\user.DESKTOP-QFQ60A6\OneDrive\Documents\Capita\C#\First App\Guess the Number\obj\Debug\Guess the Number.exe
+C:\Users\user.DESKTOP-QFQ60A6\OneDrive\Documents\Capita\C#\First App\Guess the Number\obj\Debug\Guess the Number.pdb

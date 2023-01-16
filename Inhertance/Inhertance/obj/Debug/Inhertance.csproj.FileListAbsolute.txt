@@ -1,0 +1,7 @@
+C:\Users\user.DESKTOP-QFQ60A6\OneDrive\Documents\Capita\C#\Inhertance\Inhertance\bin\Debug\Inhertance.exe.config
+C:\Users\user.DESKTOP-QFQ60A6\OneDrive\Documents\Capita\C#\Inhertance\Inhertance\bin\Debug\Inhertance.exe
+C:\Users\user.DESKTOP-QFQ60A6\OneDrive\Documents\Capita\C#\Inhertance\Inhertance\bin\Debug\Inhertance.pdb
+C:\Users\user.DESKTOP-QFQ60A6\OneDrive\Documents\Capita\C#\Inhertance\Inhertance\obj\Debug\Inhertance.csproj.AssemblyReference.cache
+C:\Users\user.DESKTOP-QFQ60A6\OneDrive\Documents\Capita\C#\Inhertance\Inhertance\obj\Debug\Inhertance.csproj.CoreCompileInputs.cache
+C:\Users\user.DESKTOP-QFQ60A6\OneDrive\Documents\Capita\C#\Inhertance\Inhertance\obj\Debug\Inhertance.exe
+C:\Users\user.DESKTOP-QFQ60A6\OneDrive\Documents\Capita\C#\Inhertance\Inhertance\obj\Debug\Inhertance.pdb
